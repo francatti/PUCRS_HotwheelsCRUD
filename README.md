@@ -11,9 +11,13 @@ excluir carros.
 
 **Tecnologias utilizadas**
 • React
+
 • Express 
+
 • Postman
+
 • Axios
+
 • Tailwind CSS (framework de CSS)
 
 # API REST
