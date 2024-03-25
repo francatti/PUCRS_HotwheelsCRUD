@@ -10,6 +10,7 @@ AND DELETE) de Hotwheels, no qual é possível visualizar, adicionar, editar e
 excluir carros.
 
 **Tecnologias utilizadas**
+
 • React
 
 • Express 
